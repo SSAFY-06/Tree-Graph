@@ -18,3 +18,5 @@ https://epicarts.tistory.com/98
 [BOJ_1197 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
 
 [BOJ_11404 플로이드](https://www.acmicpc.net/problem/11404)
+
+[BOJ 10875 뱀](https://www.acmicpc.net/problem/10875)
