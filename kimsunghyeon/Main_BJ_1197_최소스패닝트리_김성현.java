@@ -1,4 +1,4 @@
-package SW역량테스트_A형준비;
+package 알고리즘스터디.Week2_Graph;
 
 import java.io.BufferedReader;
 import java.io.IOException;
